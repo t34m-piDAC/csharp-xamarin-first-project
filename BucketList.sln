@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BucketList.iOS", "BucketLis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BucketList", "BucketList\BucketList.csproj", "{4769BD41-BC25-47FB-A4F2-186E7A02577C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BucketListTests", "BucketListTests\BucketListTests.csproj", "{99E98FAD-1460-4532-97D8-8967E711A8AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BucketListTests", "BucketListTests\BucketListTests.csproj", "{99E98FAD-1460-4532-97D8-8967E711A8AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
